@@ -1,0 +1,1 @@
+collections_api_endpoint = "/collections"
